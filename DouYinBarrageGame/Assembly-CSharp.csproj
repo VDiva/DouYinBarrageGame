@@ -42,6 +42,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Folder Include="Assets" />
+     <Folder Include="Assets\Script" />
      <Folder Include="Assets\Scenes" />
      <Reference Include="UnityEngine">
      <HintPath>D:\Unity\Unity 2021.3.26f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
